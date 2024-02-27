@@ -24,7 +24,7 @@ https://arkatulk.github.io/-Simple-Weather-App-/
     Bash
     
     ```
-    git clone https://github.com/your-username/simple-weather-app.git
+    git clone https://github.com/arkatulk/simple-weather-app.git
     
     ```
     
